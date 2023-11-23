@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE21A_Generics", "TE21A_Generics\TE21A_Generics.csproj", "{2D6D7213-72D3-46E6-A4AB-AD35F6A08584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6D7213-72D3-46E6-A4AB-AD35F6A08584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6D7213-72D3-46E6-A4AB-AD35F6A08584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6D7213-72D3-46E6-A4AB-AD35F6A08584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6D7213-72D3-46E6-A4AB-AD35F6A08584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
